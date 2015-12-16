@@ -1,0 +1,9 @@
+print(“these are the people i spend most time with”)
+family = ["mitchel","daisy","ma","sister","kelley"]
+
+family.sort()
+x = 1 
+for fam in family:
+        print(str(x) + “ . “ + fam)
+        x = x + 1
+
