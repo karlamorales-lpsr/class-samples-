@@ -109,16 +109,14 @@ def drawGoBack(myTurtle):
 		print("should be back at the start now")
                 time.sleep(2)
 
-		myTurtle.left(60)
+		myTurtle.right(60)
+		myTurtle.forward(20)
 		myTurtle.pendown()
-		myTurtle.forward(20)
-		myTurtle.left(90)
-		myTurtle.left(60)
-		myTurtle.forward(20)
+		myTurtle.right(90)
+		myTurtle.forward(1)
 
 		count = count + 1
 			
 shawn = turtle.Turtle()
-shawn.speed(1)
 drawGoBack(shawn)
 turtle.exitonclick()
