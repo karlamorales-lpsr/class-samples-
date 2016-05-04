@@ -1,0 +1,47 @@
+body {
+	background-color: #003300;
+}
+
+* {
+	color: #FFFFFF;
+}
+
+h1 { 
+	border: 2px solid #000000;
+	margin-top: 20px;
+	margin-right: 80px;
+	margin-bottom: 20px;
+	margin-left: 80px;
+	padding: 10px;
+	text-align: center;
+}
+
+li {
+	font-weight: bold;
+	margin-left: 85px;
+	padding: 10px;
+}
+
+h3 {
+	margin-left: 80px;
+	font-family: Courier;
+}
+
+img {
+}
+
+#imagebox { 
+	display: inline-block;
+	width: 200px;
+}
+
+#reasons {
+	display: inline-block;
+	width: 300px;
+}
+	
+#footer {
+	width: 600px;
+	text-align: center;
+}
+	
