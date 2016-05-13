@@ -1,0 +1,39 @@
+* { 
+	background-color: #F2E6FF;
+}
+
+h1 {
+	background-color: #9900e6;
+	margin: auto;
+	font-family: "Lucida Console", Monaco, monospace;
+}
+
+.navbaritem { 
+	border: 6px solid black;
+	display: inline-block;
+	text-align: center;
+	width: 150px;
+}
+
+body {
+	width: 900px;
+}
+
+#navbar {
+	 
+	margin: auto; 
+}
+
+li {
+	background-color: #FFFFFF;
+	font-family: Courier;
+}
+
+#header {
+	width: 650px;
+	margin: auto;
+}
+
+h2 {
+	font-family: geneva;
+}
